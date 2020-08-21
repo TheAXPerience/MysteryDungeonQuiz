@@ -13,6 +13,8 @@ Then, send to results to the server, which will calculate the percentages.
 Then, the server should send back the Pokemon whose profile picture matches the highest match, along with the blurb about the personality type.
 Should return a table of personalities, Pokemon profile pictures, and percentages.
 
+Questions ceom from here: https://bulbapedia.bulbagarden.net/wiki/Appendix:Mystery_Dungeon:_Explorers_of_Sky_walkthrough/Chapter_0
+
 ## The personality types (and associated Pokemon)
 * Lonely (Bulbasaur, Mudkip)
 * Docile (Charmander, Bulbasaur)

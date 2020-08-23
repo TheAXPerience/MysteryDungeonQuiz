@@ -15,6 +15,8 @@ Should return a table of personalities, Pokemon profile pictures, and percentage
 
 Questions ceom from here: https://bulbapedia.bulbagarden.net/wiki/Appendix:Mystery_Dungeon:_Explorers_of_Sky_walkthrough/Chapter_0
 
+Nature flavor text: https://www.deviantart.com/sparklespeed/journal/Pokemon-Mystery-Dungeon-EoS-Nature-Descriptions-439788647
+
 ## The personality types (and associated Pokemon)
 * Lonely (Bulbasaur, Mudkip)
 * Docile (Charmander, Bulbasaur)

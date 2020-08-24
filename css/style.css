@@ -1,0 +1,136 @@
+#bg {
+  /* rules to fill background */
+  min-height: 100%;
+  min-width: 100%;
+  overflow: hidden;
+
+  /* positioning */
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+body {
+  color: white;
+  text-align: center;
+  align-items: center;
+  height: 100%
+  padding: 0px;
+  margin: 0px;
+
+  font-family: monospace;
+}
+
+.logo{
+  position: relative;
+  display: block;
+  z-index: 1;
+  min-height: 170px;
+  height: 30vh;
+  vertical-align: center;
+  margin: 1px;
+  padding: 8px 0px;
+}
+
+.logo img {
+  min-height: 125px;
+  height: 80%;
+  width: auto;
+}
+
+.logo h1 {
+  margin: 0px;
+  text-shadow: 1px 1px black;
+}
+
+.intro {
+  float: left;
+  position: relative;
+  z-index: 1;
+  clear: both;
+  border: 3px solid white;
+  background-color: rgba(0, 0, 0, 0.8);
+  text-align: center;
+  width: 75%;
+  line-height: 25px;
+  margin: 0px 12.5%;
+  min-height: 60vh;
+}
+
+.intro h2 {
+  line-height: 40px;
+  padding: 4px 8px 0px 8px;
+}
+
+#text-box {
+  z-index: 1;
+  border: 3px solid white;
+  background-color: rgba(0, 0, 0, 0.8);
+  text-align: center;
+  width: 75%;
+  line-height: 25px;
+  margin: 0px 12.5%;
+  min-height: 60vh;
+}
+
+#text-box h2 {
+  line-height: 35px;
+  padding: 4px 8px 0px 8px;
+}
+
+#text-box p {
+  margin: 0px;
+  padding: 0px 8px;
+  font-size: 1.2rem;
+  line-height: 27px;
+}
+
+.question {
+  margin: 1px;
+  padding: 4px 8px;
+}
+
+.answers {
+  font-size: 1.25rem;
+  /*
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  */
+  vertical-align: center;
+  padding: 0px 0px 8px 0px;
+}
+
+.answers div {
+  margin: 8px 10%;
+  width: 80%;
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.answers div:hover {
+  background-color: rgba(255, 255, 255, 0.33);
+}
+
+.intro button {
+  color: white;
+  background-color: black;
+  border: 2px solid white;
+  width: 30%;
+  min-height: 8vh;
+  font-size: 1.25rem;
+}
+
+#portrait {
+  min-height: 20px;
+  height: 10vh;
+  width: auto;
+}
+
+.player {
+  color: rgb(54, 128, 255);
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script>
+    <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
+    <script src="./js/quiz_builder.js"></script>
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Pokemon Mystery Dungeon Quiz</title>
+  </head>
+  <body>
+    <img id="bg" src="./assets/background.jpg" />
+    <div class="logo">
+      <img src="./assets/sky_logo.png" alt="Explorers of Sky"/><br>
+      <h1>Personality Quiz</h1>
+    </div>
+    <div id="text-box">
+      <div class="question">
+        <h2>
+          Which pronouns do you prefer?<br>
+          (Choose which one you are most comfortable with)
+        </h2>
+      </div>
+      <div class="answers">
+        <div id="a1" data-value="he" onclick="uniqueNameHere(a1.getAttribute('data-value'))">He/him.</div>
+        <div id="a2" data-value="she" onclick="uniqueNameHere(a2.getAttribute('data-value'))">She/her.</div>
+        <div id="a3" data-value="they" onclick="uniqueNameHere(a3.getAttribute('data-value'))">They/them.</div>
+      </div>
+    </div>
+  </body>
+  <script type="text/javascript">
+    function uniqueNameHere(i) {
+      alert(i);
+    }
+  </script>
+</html>

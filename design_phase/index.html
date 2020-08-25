@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Pokemon Mystery Dungeon Quiz</title>
+  </head>
+  <body>
+    <img id="bg" src="./assets/background.jpg" />
+    <div class="logo">
+      <img src="./assets/sky_logo.png" alt="Explorers of Sky"/><br>
+      <h1>Personality Quiz</h1>
+    </div>
+    <div class="intro">
+      <h2>
+        Welcome!<br>
+        This is the portal that leads to the world inhabited only by Pokemon.<br>
+        Beyond this gateway, many new adventures and fresh experiences await your arrival!<br>
+        Before you depart for adventure, you must answer some questions.<br>
+        Be truthful when you answer them!<br>
+        Now, are you ready?<br>
+        Then...
+      </h2>
+      <button type="button" name="button" onclick="goToQuiz();">Let the questions begin!</button>
+      <script type="text/javascript">
+        function goToQuiz() {
+          window.location.href = './quiz.html';
+        }
+      </script>
+    </div>
+  </body>
+</html>

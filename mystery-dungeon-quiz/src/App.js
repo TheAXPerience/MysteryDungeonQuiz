@@ -9,7 +9,7 @@ function Begin(e) {
   // second, must generate random number from 8 to 10
   // third, create a React.Component class that manages the text-box (another js file)
   // fourth, create a React.Component class that shows the result screen (another js file)
-  let numQuestions = 63; // apprently there are 63 questions in the json file
+  let numQuestions = 64; // apprently there are 64 questions in the json file
   if (e.target.value === 'random') {
     numQuestions = Math.floor(Math.random() * 3) + 8;
   }

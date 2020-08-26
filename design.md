@@ -1,5 +1,7 @@
 # The Mystery Dungeon Quiz
 
+The quiz can be found at https://theaxperience.github.io/index.html
+
 ## Structure
 Either a website or phone application. We will talk as though we are making a web application in Django.
 

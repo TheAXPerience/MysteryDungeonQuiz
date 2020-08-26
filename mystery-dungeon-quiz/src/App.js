@@ -3,16 +3,17 @@ import ReactDOM from 'react-dom';
 import { TextBox } from './js/textbox.js'
 import './App.css'
 
-function Begin() {
+function Begin(e) {
   // function that is called to begin the process
   // first, must load questions from json file
   // second, must generate random number from 8 to 10
   // third, create a React.Component class that manages the text-box (another js file)
   // fourth, create a React.Component class that shows the result screen (another js file)
-  // readJSON();
-  ReactDOM.render(<TextBox />,
-    document.getElementById('root')
-  );
+  let numQuestions = 63; // apprently there are 63 questions in the json file
+  if (e.target.value === 'random') {
+    numQuestions = Math.floor(Math.random() * 3) + 8;
+  }
+  ReactDOM.render(<TextBox num={numQuestions}/>, document.getElementById('root'));
 }
 
 function App() {
@@ -27,7 +28,9 @@ function App() {
         Now, are you ready?<br/>
         Then...
       </h2>
-      <button type="button" name="button" onClick={Begin}>Let the questions begin!</button>
+      <button type="button" name="button" value="random" onClick={e => Begin(e)}>Let the questions begin!</button>
+      <br/><br/>
+      <button type="button" name="button" value="all" onClick={e => Begin(e)}>Take the full test!</button>
     </div>
   );
 }

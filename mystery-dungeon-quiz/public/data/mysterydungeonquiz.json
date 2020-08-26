@@ -192,7 +192,7 @@
       ]
     },
     {
-      "q": "You have a reallt important test tomorrow! What do you do?",
+      "q": "You have a really important test tomorrow! What do you do?",
       "as": [
         { "text": "Study all night long.", "points": "Hardy Hardy" },
         { "text": "Wing it! I'm sure I'll be fine!", "points": "Relaxed Relaxed" },
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "q": "There's a rumor there's a scary ghost haunt the school bathrooms! What do you do?",
+      "q": "There's a rumor there's a scary ghost haunting the school bathrooms! What do you do?",
       "as": [
         { "text": "Scary... bathrooms!", "points": "Docile Docile Timid" },
         { "text": "Go in there anyways.", "points": "Bold Jolly Jolly Relaxed" }
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "q": "You see a cake that's past its expiration date, but only by 1 day. What do you do?",
+      "q": "You see a cake that's past its expiration date, but only by one day. What do you do?",
       "as": [
         { "text": "Not a problem! Chow time!", "points": "Brave Brave Relaxed" },
         { "text": "Turn it down briefly, then decide.", "points": "Timid" },
@@ -449,7 +449,7 @@
       "q": "Do you think it's important to be fashionably late?",
       "as": [
         { "text": "Yes.", "points": "Bold Bold Quiet Quiet" },
-        { "text": "No", "points": "Brave Brave" },
+        { "text": "No.", "points": "Brave Brave" },
         { "text": "I don't know.", "points": "Docile Docile" }
       ]
     },

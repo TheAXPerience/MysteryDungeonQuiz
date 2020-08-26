@@ -192,7 +192,7 @@
       ]
     },
     {
-      "q": "You have a reallt important test tomorrow! What do you do?",
+      "q": "You have a really important test tomorrow! What do you do?",
       "as": [
         { "text": "Study all night long.", "points": "Hardy Hardy" },
         { "text": "Wing it! I'm sure I'll be fine!", "points": "Relaxed Relaxed" },
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "q": "There's a rumor there's a scary ghost haunt the school bathrooms! What do you do?",
+      "q": "There's a rumor there's a scary ghost haunting the school bathrooms! What do you do?",
       "as": [
         { "text": "Scary... bathrooms!", "points": "Docile Docile Timid" },
         { "text": "Go in there anyways.", "points": "Bold Jolly Jolly Relaxed" }

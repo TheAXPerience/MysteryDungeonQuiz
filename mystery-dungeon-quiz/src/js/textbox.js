@@ -5,7 +5,7 @@ export class TextBox extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      left: Math.floor(Math.random() * 3) + 8,
+      left: this.props.num,
       q_list: null,
       n_list: null,
       loading: true
@@ -16,7 +16,7 @@ export class TextBox extends React.Component {
   componentDidMount() {
     const n = new Natures();
     const q = new QuestionList();
-    fetch('./assets/mysterydungeonquiz.json')
+    fetch('./data/mysterydungeonquiz.json')
       .then(response => response.json())
       .then((jsonData) => {
         n.addNatures(jsonData.personalities);
@@ -25,36 +25,39 @@ export class TextBox extends React.Component {
           left: this.state.left,
           q_list: q,
           n_list: n,
-          loading: false
+          loading: false,
+          num_question: 1
         });
       });
   }
 
   handleClick(e) {
     this.state.n_list.addCounts(e.target.dataset.value);
-    console.log(e.target.dataset.value);
+    const tmp = this.state.left - 1;
+    const num_question = this.state.num_question + 1;
 
-    if (this.state.q_list.hasNext()) {
-      const tmp = this.state.left - 1;
+    if (this.state.q_list.hasNext() || tmp < 0) {
       this.setState({
         left: tmp,
         q_list: this.state.q_list,
         n_list: this.state.n_list,
-        loading: false
+        loading: false,
+        num_question: num_question
       });
     } else {
       this.setState({
         left: 0,
         q_list: this.state.q_list,
         n_list: this.state.n_list,
-        loading: false
+        loading: false,
+        num_question: num_question
       });
     }
   }
 
   render() {
     if (this.state.loading) {
-      return <div id="text-box">Loading...</div>;
+      return <div id="text-box"><h2>Loading...</h2></div>;
     }
 
     const handleClick = this.handleClick;
@@ -65,13 +68,13 @@ export class TextBox extends React.Component {
       let answers = get_q.getAnswers().map(function(a) {
         const data_value = a.points;
         const txt = a.text;
-        return <div key={'a' + i++} data-value={data_value} onClick={e => handleClick(e, "data-value")}>{txt}</div>;
+        return <a key={'a' + i++} data-value={data_value} onClick={e => handleClick(e, "data-value")}>{txt}</a>;
       });
       return (
         <div id="text-box">
           <div className="question">
             <h2>
-              { get_q.q }
+              {this.state.num_question}. { get_q.q }
             </h2>
             </div>
           <div className="answers">
@@ -85,7 +88,7 @@ export class TextBox extends React.Component {
       let answers = get_q.getAnswers().map(function(a) {
         const data_value = a.points;
         const txt = a.text;
-        return <div key={'a' + i++} data-value={data_value} onClick={e => handleClick(e, "data-value")}>{txt}</div>;
+        return <a key={'a' + i++} data-value={data_value} onClick={e => handleClick(e, "data-value")}>{txt}</a>;
       });
       return (
         <div id="text-box">
@@ -114,7 +117,7 @@ class ResultsScreen extends React.Component {
         <tr key={'n' + i++}>
           <td>{n.nature}</td>
           <td><img src={n.picture} alt={n.nature}/></td>
-          <td>{n.count} ({n.percent})</td>
+          <td>{n.count} ({n.percent}%)</td>
         </tr>
       );
     });

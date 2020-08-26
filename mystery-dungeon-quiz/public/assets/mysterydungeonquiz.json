@@ -1,10 +1,10 @@
 {
-  "personalities": [
+    "personalities":[
     { "name": "Lonely", "he": "Bulbasaur", "she": "Mudkip", "they": "Cyndaquil",
-      "flavor": "At least a little bit! You might find that surprising, but do you think it might be a little true? You know what they say, though...We're all a bit lonely every now and then! You probably keep this fact of life to yourself, though. But if there's one thing that brings us all together...it's our need to go it solo! So, a lonely and solitary type like you..."
+      "flavor": "At least a little bit! You might find that surprising, but do you think it might be a little true? You know what they say, though... We're all a bit lonely every now and then! You probably keep this fact of life to yourself, though. But if there's one thing that brings us all together... it's our need to go it solo! So, a lonely and solitary type like you..."
     },
     { "name": "Docile", "he": "Charmander", "she": "Bulbasaur", "they": "Chikorita",
-      "flavor": "You're quite sensitive to others! You listen attentively and respectfully, and you're quick to pick up on things. Because you're so good at listening, do you find that your friends tell you their problems and concerns often? Perhaps people laugh at you sometimes for being so earnest and not recognizing jokes for what they are. But you're honestly surprised and bashful about this aspect of yourself...And then honestly laugh about it! So, a docile, sensitive type like you..."
+      "flavor": "You're quite sensitive to others! You listen attentively and respectfully, and you're quick to pick up on things. Because you're so good at listening, do you find that your friends tell you their problems and concerns often? Perhaps people laugh at you sometimes for being so earnest and not recognizing jokes for what they are. But you're honestly surprised and bashful about this aspect of yourself... And then honestly laugh about it! So, a docile, sensitive type like you..."
     },
     { "name": "Quirky", "he": "Squirtle", "she": "Piplup", "they": "Meowth",
       "flavor": "You want to be on the cutting edge of fashion! You want to own all the latest stuff, right? But you grow bored of your old things and only like new things! You're true to your emotions, and you follow your desires. People have a hard time keeping up with you because you change so quickly. You may want to reflect upon how your words and actions affect others. So, a quirky type like you..."
@@ -19,7 +19,7 @@
       "flavor": "You're quite gentle! You're sometimes a little shy about new things, aren't you? Do you miss out on some experiences because you get worried about the newness of the challenge? Of course, there's also a great benefit in being cautious, isn't there? After all, it keeps you nice and safe! You live life at your own speed, with no hurries and no worries! So, a timid and gentle type like you..."
     },
     { "name": "Jolly", "he": "Totodile", "she": "Eevee", "they": "Squirtle",
-      "flavor": "You have a good sense of humor, and you're compassionate. You're always making others around you laugh. You have a sunny, positive outlook, and you have a vitality that raises the lowest spirits to giddy heights! Yet, for all your great cheer, you're also open to tears...But you bounce between laughter and tears so easily! What an adventure life must be like for you, bouncing around like that all day! So, a jolly type like you..."
+      "flavor": "You have a good sense of humor, and you're compassionate. You're always making others around you laugh. You have a sunny, positive outlook, and you have a vitality that raises the lowest spirits to giddy heights! Yet, for all your great cheer, you're also open to tears... But you bounce between laughter and tears so easily! What an adventure life must be like for you, bouncing around like that all day! So, a jolly type like you..."
     },
     { "name": "Relaxed", "he": "Phanpy", "she": "Vulpix", "they": "Munchlax",
       "flavor": "You're so casual, leisurely, and carefree. You don't rush or stress yourself out, and you don't worry about anything. You like to take a seat and kick up your feet! You definitely have an easygoing personality, and you don't sweat the details. People naturally flock to you because they find you to be a free spirit, which is so refreshing! So, a relaxed type like you..."
@@ -31,7 +31,7 @@
       "flavor": "You're so determined! You don't whine or feel sorry for yourself, and you never need help with anything. You also have a strong sense of responsibility. You work toward your goals steadily and never require attention along the way. Your resilient spirit is the only thing you need to guide you toward your goals. But be careful! You risk wearing yourself out if you work too long all on your own! You should recognize that sometimes you need help from friends. So, a hardy, determined type like you..."
     },
     { "name": "Rash", "he": "Mudkip", "she": "Torchic", "they": "Skitty",
-      "flavor": "You seem to be even a bit hasty at times! You may run out of your house an forget to lock the door once in a while. And you may leave things like umbrellas behind when you leave places. Maybe you even dash outside in your slippers every now and then! Perhaps you even wear your shirts inside out all the time! Oh, is that even rasher than you really are? So sorry! But know that your friends think your funny little flubs are adorable! Oh, wait! One more thing! You also sometimes reveal your friends' secrets by accidents, don't you! Sorry. Had to be said! So, without further ado...a rash and hasty type like you..."
+      "flavor": "You seem to be even a bit hasty at times! You may run out of your house an forget to lock the door once in a while. And you may leave things like umbrellas behind when you leave places. Maybe you even dash outside in your slippers every now and then! Perhaps you even wear your shirts inside out all the time! Oh, is that even rasher than you really are? So sorry! But know that your friends think your funny little flubs are adorable! Oh, wait! One more thing! You also sometimes reveal your friends' secrets by accidents, don't you! Sorry. Had to be said! So, without further ado... a rash and hasty type like you..."
     },
     { "name": "Bold", "he": "Turtwig", "she": "Squirtle", "they": "Piplup",
       "flavor": "You're so brave, and you never back down from anything! And you're also gutsy and brash in a way that others aren't! You're not shy about asking to take home all the leftovers at restaurants, right? If someone's treating you to dinner, you have no problem with ordering lots of good stuff! And you aren't fazed by doing things that most others would think twice about doing. Perhaps you don't even notice when others are upset with you! You know, you have the potential to become a truly great person...because you'll be the last one standing! So, a bold type like you..."
@@ -40,7 +40,7 @@
       "flavor": "You're so open and innocent! What a strong sense of curiosity you have! And you state your opinions purely, sharing exactly what you think. You also have an artistic spirit that isn't restrained by social conventions! You startle people with your spontaneity and vision. But when you overdo it, other people can have a hard time keeping up with you... Have you noticed people looking at you oddly? As if for no apparent reason? So, a naive, innocent type like you..."
     },
     { "name": "Impish", "he": "Piplup", "she": "Chimchar", "they": "Pikachu",
-      "flavor": "You really like to play a lot! And you enjoy eating a lot! You love competition, but you hate losing.Your personality seems crystal clear to others. With you, what you see is what you get! You cheer others with your dazzling smile. But you may be afraid of showing what's in your heart and revealing your true self. You may not want to keep your worries to yourself. You're only human, so ask your friends for advice when you need it. So, an impish type like you..."
+      "flavor": "You really like to play a lot! And you enjoy eating a lot! You love competition, but you hate losing. Your personality seems crystal clear to others. With you, what you see is what you get! You cheer others with your dazzling smile. But you may be afraid of showing what's in your heart and revealing your true self. You may not want to keep your worries to yourself. You're only human, so ask your friends for advice when you need it. So, an impish type like you..."
     },
     { "name": "Hasty", "he": "Shinx", "she": "Pikachu", "they": "Torchic",
       "flavor": "You talk quickly! You eat quickly! You walk quickly! People often see you as a hard worker because you're always moving around so fast! But be careful! If you always rush so fast, you may make mistakes more often than others do. And what a waste that would be! Relax every now and then with a nice, deep breath! So, a hasty type like you..."
@@ -192,10 +192,346 @@
       ]
     },
     {
-      "q": "",
+      "q": "You have a reallt important test tomorrow! What do you do?",
       "as": [
-        { "text": "", "points": "" },
-        { "text": "", "points": "" }
+        { "text": "Study all night long.", "points": "Hardy Hardy" },
+        { "text": "Wing it! I'm sure I'll be fine!", "points": "Relaxed Relaxed" },
+        { "text": "Test?! I think I have a fever...", "points": "Naive Naive" }
+      ]
+    },
+    {
+      "q": "Have you ever accidentally called a teacher \"Mom\" or \"Dad\"?",
+      "as": [
+        { "text": "Yes.", "points": "Rash Rash" },
+        { "text": "No.", "points": "Quiet Quiet" }
+      ]
+    },
+    {
+      "q": "There's a rumor there's a scary ghost haunt the school bathrooms! What do you do?",
+      "as": [
+        { "text": "Scary... bathrooms!", "points": "Docile Docile Timid" },
+        { "text": "Go in there anyways.", "points": "Bold Jolly Jolly Relaxed" }
+      ]
+    },
+    {
+      "q": "You're in class when you realize you really have to go to the restroom! What do you do?",
+      "as": [
+        { "text": "Ask for permission.", "points": "Brave Brave Bold Bold" },
+        { "text": "Sneak out.", "points": "Hasty Hasty" },
+        { "text": "Hold on until class ends!", "points": "Timid Timid" }
+      ]
+    },
+    {
+      "q": "Do you think you have good study habits?",
+      "as": [
+        { "text": "Yes.", "points": "Docile Docile" },
+        { "text": "No.", "points": "Naive Naive Rash" },
+        { "text": "Well, I never lose at sports!", "points": "Impish Impish" }
+      ]
+    },
+    {
+      "q": "What's your studying habit?",
+      "as": [
+        { "text": "Working hard, everyday.", "points": "Hardy Hardy" },
+        { "text": "If I remember to...", "points": "Quirky Quirky Hasty" },
+        { "text": "I just cover what I need to do.", "points": "Quiet" },
+        { "text": "I can't really do it alone...", "points": "Lonely Lonely" }
+      ]
+    },
+    {
+      "q": "You're packing your classroom's snacks when you get hungry! What do you do?",
+      "as": [
+        { "text": "Eat just a tiny bit.", "points": "Hasty Hasty" },
+        { "text": "Hold myself back and pack it all up.", "points": "Hardy Hardy" },
+        { "text": "What snacks? They're in my belly!", "points": "Rash Rash" }
+      ]
+    },
+    {
+      "q": "You see a cake that's past its expiration date, but only by 1 day. What do you do?",
+      "as": [
+        { "text": "Not a problem! Chow time!", "points": "Brave Brave Relaxed" },
+        { "text": "Turn it down briefly, then decide.", "points": "Timid" },
+        { "text": "Get someone to try it first.", "points": "Bold Bold" }
+      ]
+    },
+    {
+      "q": "You've stuffed yourself with a good meal when a great dessert arrives. What do you do?",
+      "as": [
+        { "text": "Eat it. Who cares if I'm stuffed?", "points": "Hasty Hasty Rash" },
+        { "text": "Turn it down. It's too fattening!", "points": "Hardy" },
+        { "text": "Yum! I love dessert the most!", "points": "Bold Bold Jolly Jolly Relaxed" }
+      ]
+    },
+    {
+      "q": "Your friend made a meal that tastes horrible. They ask, \"How is it?\". You say...?",
+      "as": [
+        { "text": "\"Terrible!\"", "points": "Brave Quiet" },
+        { "text": "Just smile.", "points": "Calm Calm Lonely" },
+        { "text": "\"Um... it's good...\"", "points": "Rash Timid" }
+      ]
+    },
+    {
+      "q": "You're eating at a very fancy restaurant known for its food. Which course do you select?",
+      "as": [
+        { "text": "Seared steak.", "points": "Impish Impish Naive Naive" },
+        { "text": "Healthy fish.", "points": "Hardy" },
+        { "text": "Anything! It's all good!", "points": "Bold Bold" }
+      ]
+    },
+    {
+      "q": "Everyone's sharing a dessert, and there's an extra piece. What do you do?",
+      "as": [
+        { "text": "Don't tell anyone.", "points": "Bold Bold Timid" },
+        { "text": "Let everyone know.", "points": "Rash Rash Docile Docile" },
+        { "text": "First come, first served!", "points": "Impish Impish" }
+      ]
+    },
+    {
+      "q": "Your friend offers to treat you to dinner. What do you do?",
+      "as": [
+        { "text": "I'm there!", "points": "Bold Bold" },
+        { "text": "Allow me.", "points": "Jolly Jolly" },
+        { "text": "Thanks...", "points": "Quirky Quirky" }
+      ]
+    },
+    {
+      "q": "Everyone around you is laughing at something you think is pretty boring. What do you do?",
+      "as": [
+        { "text": "Nothing, really.", "points": "Brave Brave Bold" },
+        { "text": "Laugh along.", "points": "Lonely Timid" },
+        { "text": "It depends on the situation.", "points": "Quiet Quirky" }
+      ]
+    },
+    {
+      "q": "Do you prefer being busy or having a lot of free time?",
+      "as": [
+        { "text": "Being busy.", "points": "Lonely Lonely Sassy" },
+        { "text": "Free time!", "points": "Calm Calm" },
+        { "text": "In between.", "points": "Quirky Quirky" }
+      ]
+    },
+    {
+      "q": "You're about to buy a popular game when someone else gets the last copy! How do you feel?",
+      "as": [
+        { "text": "Whatever.", "points": "Calm Calm" },
+        { "text": "Annoyed. I was here first!", "points": "Jolly Jolly Relaxed Relaxed" },
+        { "text": "I shed a few tears.", "points": "Lonely Lonely" }
+      ]
+    },
+    {
+      "q": "You run into a person you've never met before. What do you do?",
+      "as": [
+        { "text": "Make small talk.", "points": "Calm" },
+        { "text": "Say nothing!", "points": "Quirky" },
+        { "text": "Make an excuse to get away!", "points": "Timid Timid" }
+      ]
+    },
+    {
+      "q": "Good news and bad news... which one do you want to hear first?",
+      "as": [
+        { "text": "The good news.", "points": "Relaxed Relaxed" },
+        { "text": "The bad news.", "points": "Bold Naive Naive" },
+        { "text": "I don't want either.", "points": "Timid Timid" }
+      ]
+    },
+    {
+      "q": "Hey look! There's someone behind you! So... did you look just now?",
+      "as": [
+        { "text": "Don't do that! You scared me!", "points": "Timid Timid" },
+        { "text": "OK, I admit it. You tricked me.", "points": "Docile Docile" },
+        { "text": "No way. I didn't fall for it.", "points": "Lonely Lonely Sassy Sassy" },
+        { "text": "Huh?! What?", "points": "Relaxed Relaxed" }
+      ]
+    },
+    {
+      "q": "How are your mornings?",
+      "as": [
+        { "text": "Always in a rush!", "points": "Brave Brave Impish Impish" },
+        { "text": "Always perfect.", "points": "Quiet" },
+        { "text": "They are OK.", "points": "Docile Timid Timid" }
+      ]
+    },
+    {
+      "q": "You've been invited to a wonderful party. It's time for the party to start, but there's nobody there! What do you do?",
+      "as": [
+        { "text": "Did something happen?", "points": "Lonely Lonely Docile Docile" },
+        { "text": "Maybe I have the day wrong?", "points": "Jolly Jolly Relaxed Relaxed" },
+        { "text": "Let's get this party started!", "points": "Bold Bold" }
+      ]
+    },
+    {
+      "q": "You take off your shoes to realize your socks are different colors! What do you do?",
+      "as": [
+        { "text": "Get embarrassed!", "points": "Docile Docile" },
+        { "text": "Again?!", "points": "Rash Rash" },
+        { "text": "I meant to do that!", "points": "Jolly Jolly" }
+      ]
+    },
+    {
+      "q": "Did you make any New Year's Resolutions?",
+      "as": [
+        { "text": "Of course!", "points": "Hardy Hardy" },
+        { "text": "Nope.", "points": "Quirky Quirky Rash" },
+        { "text": "What are those?", "points": "Relaxed Relaxed" }
+      ]
+    },
+    {
+      "q": "You're in a completely silent assembly when someone passes gas! What do you do?",
+      "as": [
+        { "text": "Roll on the floor laughing!", "points": "Jolly Jolly Naive Naive" },
+        { "text": "Just let it go by...", "points": "Impish Impish Docile Docile" },
+        { "text": "Who was that?!", "points": "Brave Brave" }
+      ]
+    },
+    {
+      "q": "You're running a marathon, and when you start you fall flat on your face! What will you do?",
+      "as": [
+        { "text": "I'm not giving up yet!", "points": "Brave Hardy Hardy" },
+        { "text": "Just give up.", "points": "Quirky Quirky" },
+        { "text": "Shout, \"START OVER!\"", "points": "Bold Bold Rash" }
+      ]
+    },
+    {
+      "q": "You find something at a great bargain price! What do you do?",
+      "as": [
+        { "text": "Buy it right away!", "points": "Hasty Hasty" },
+        { "text": "Think about whether I need it.", "points": "Quiet" },
+        { "text": "Demand an even bigger discount!", "points": "Bold Bold" }
+      ]
+    },
+    {
+      "q": "You've been asked to do a difficult task. What will you do?",
+      "as": [
+        { "text": "Do it myself.", "points": "Brave Hardy Hardy" },
+        { "text": "Ask someone to help.", "points": "Docile" },
+        { "text": "Make someone else do it!", "points": "Bold Bold Sassy" }
+      ]
+    },
+    {
+      "q": "You notice a toy you bought for full price yesterday is marked as half the price today! How do you feel?",
+      "as": [
+        { "text": "Heartbroken...", "points": "Hardy Hardy" },
+        { "text": "Aaargh!!", "points": "Docile Docile" },
+        { "text": "Bad timing, I guess...", "points": "Bold Bold Calm Calm" }
+      ]
+    },
+    {
+      "q": "Your friend is running a little late to meet you. Is that OK?",
+      "as": [
+        { "text": "Yes.", "points": "Bold Bold Relaxed" },
+        { "text": "Not at all!", "points": "Hasty Lonely Lonely" }
+      ]
+    },
+    {
+      "q": "Do you think that, no matter what happens, life goes on?",
+      "as": [
+        { "text": "All the time!", "points": "Jolly Relaxed Relaxed" },
+        { "text": "Never.", "points": "Quiet" }
+      ]
+    },
+    {
+      "q": "The phone's ringing! What do you do?",
+      "as": [
+        { "text": "Answer right away!", "points": "Hasty Hasty Lonely Lonely" },
+        { "text": "Wait a bit before answering.", "points": "Quiet" },
+        { "text": "Ignore it and let it ring.", "points": "Timid" }
+      ]
+    },
+    {
+      "q": "Your friend seems to be making plans to hang out, just out of earshot. You think...",
+      "as": [
+        { "text": "I want to go too!", "points": "Naive Naive" },
+        { "text": "No big deal.", "points": "Lonely Lonely" },
+        { "text": "Will they invite me?", "points": "Timid" }
+      ]
+    },
+    {
+      "q": "Do you think it's important to be fashionably late?",
+      "as": [
+        { "text": "Yes.", "points": "Bold Bold Quiet Quiet" },
+        { "text": "No", "points": "Brave Brave" },
+        { "text": "I don't know.", "points": "Docile Docile" }
+      ]
+    },
+    {
+      "q": "You've won a big raffle ticket! You say...",
+      "as": [
+        { "text": "Woo-hoo!", "points": "Jolly Naive Naive" },
+        { "text": "I can't believe it...", "points": "Timid" },
+        { "text": "This is my little secret.", "points": "Quiet Quiet" }
+      ]
+    },
+    {
+      "q": "Do you think blaming someone else on something you did is sometimes necessary?",
+      "as": [
+        { "text": "Of course!", "points": "Quiet Quiet Sassy Sassy" },
+        { "text": "No way!", "points": "Brave Brave" }
+      ]
+    },
+    {
+      "q": "Your friend suddenly won't listen to you, when everything was fine yesterday. What do you think?",
+      "as": [
+        { "text": "Maybe they're sick.", "points": "Hasty Hasty" },
+        { "text": "They're lost in thought.", "points": "Quiet Quiet" },
+        { "text": "What?! Why?!", "points": "Timid" }
+      ]
+    },
+    {
+      "q": "You fail miserably! Everyone found out, and they're disappointed in you... what do you do?",
+      "as": [
+        { "text": "Try and hide.", "points": "Timid" },
+        { "text": "Think of an excuse.", "points": "Naive Naive Sassy Sassy" },
+        { "text": "Drop down and play dead!", "points": "Rash Rash" }
+      ]
+    },
+    {
+      "q": "You want to reveal you like someone a whole bunch! What do you do?",
+      "as": [
+        { "text": "Show it by playing together.", "points": "Jolly Jolly Quiet" },
+        { "text": "Make it obvious by... playing a prank!", "points": "Lonely Lonely Naive" },
+        { "text": "State it clearly for all to hear!", "points": "Bold Brave Brave Impish Impish" },
+        { "text": "Keep it to myself! It's too risky!", "points": "Timid Timid" }
+      ]
+    },
+    {
+      "q": "The people at the next table are singing for someone's birthday. What do you do?",
+      "as": [
+        { "text": "Stay on the sidelines.", "points": "Calm" },
+        { "text": "Sing along!", "points": "Jolly Jolly Naive Naive" },
+        { "text": "Walk away.", "points": "Lonely Sassy Sassy" }
+      ]
+    },
+    {
+      "q": "You're on a stroll when a TV crew pounces you for an interview! What do you do?",
+      "as": [
+        { "text": "Run away! How embarrassing!", "points": "Timid Timid" },
+        { "text": "Answer questions calmly.", "points": "Brave Brave Sassy Sassy" },
+        { "text": "Yuck it up! Woo-hoo! I'm on TV!", "points": "Bold Naive Naive" }
+      ]
+    },
+    {
+      "q": "You see a big and comfortable bed. Your first reaction is to...",
+      "as": [
+        { "text": "Jump on it!", "points": "Hasty Sassy" },
+        { "text": "Curl up.", "points": "Lonely Lonely" },
+        { "text": "Belly flop!", "points": "Impish Impish" }
+      ]
+    },
+    {
+      "q": "You're daydreaming... when your friend sprays you with water! What do you do?",
+      "as": [
+        { "text": "Get mad.", "points": "Hasty Hasty" },
+        { "text": "Get sad.", "points": "Lonely Lonely" },
+        { "text": "Woo-hoo! Water fight!", "points": "Impish Impish Jolly Jolly Naive Naive" }
+      ]
+    },
+    {
+      "q": "You've been handed a large bag as a souvenir. What do you do?",
+      "as": [
+        { "text": "Wait until I get home to open it.", "points": "Docile Docile" },
+        { "text": "Shake it!", "points": "Naive Naive" },
+        { "text": "Open it!", "points": "Rash Rash" },
+        {"text": "It's smaller than everyone else's...", "points": "Lonely Lonely"}
       ]
     }
   ]
